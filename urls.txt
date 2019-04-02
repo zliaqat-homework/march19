@@ -1,0 +1,3 @@
+https://www.w3schools.com/whatis/whatis_http.asp
+https://www.quora.com/What-is-the-difference-between-HTTP-and-HTTPS
+https://github.com/kicsuetdev/march19
