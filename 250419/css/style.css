@@ -1,0 +1,24 @@
+.myImg{ background-color: #000; }
+
+.myImg img {
+	border: 6px dashed green;
+	width: 300px;
+	height: 400px;
+	opacity: .8;
+}
+ a:link {background-color: #fff} 
+/*  a:visited {background-color: #006600} */
+ /* a:hover {background-color: #FFCC00}  */
+ a:active {background-color: #FF00CC}
+
+a.myAnchor:hover {
+	background-color: red;
+}
+
+ a {
+ 	border: 2px solid #333;
+    padding: 10px;
+    margin: 30px;
+    text-decoration: none;
+    display: inline-block;
+ }
